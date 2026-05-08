@@ -2,7 +2,7 @@
 
 I'm **Titir**, a Graduate student in **Applied Artificial Intelligence** at Stevens Institute of Technology. I am building a career at the intersection of **Robotics, AI Infrastructure, and Human-Centered Design**—focusing on technology that directly impacts human lives.
 
-## 🧪 Research
+## 🧪 Projects
 * **AI Infrastructure Siting (Stevens Institute of Technology — 2026):** Currently co-authoring "Mapping the Future of Artificial Intelligence Infrastructure: A Machine Learning Approach to Locating Data Centers".
 
 ## 🎓 Education
@@ -31,13 +31,9 @@ I'm **Titir**, a Graduate student in **Applied Artificial Intelligence** at Stev
 * Focused on foundational Data Science and Computer Science Engineering principles.
 </details>
 
-## 💼 Experience & Projects
-* **Research Intern (Predictive Algorithms):** Applying for roles at companies like ZOLL to use predictive modeling for real-world healthcare outcomes.
-* **Human-Centered AI:** Exploring how assistive technology and predictive systems can be designed with an intuitive user experience in mind.
-
 ## 🚀 Technical Skills
 * **Languages & Tools:** Python, Java, Deep Learning (PyTorch), Git.
-* **Specializations:** Predictive Algorithms, Pattern Recognition, AI Infrastructure Siting.
+* **Specializations:** Predictive Algorithms, Pattern Recognition, AI/ML.
 
 ---
 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/titir-talukder-721610224/)** or **[Email](mailto:talukdertitir@gmail.com)**!
